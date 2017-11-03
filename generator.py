@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-#!/usr/bin/env python
-#Copyright (c) 2013 Baidu.com, Inc. All Rights Reserved 
 
 request_send = {\
     #"pubid": "82ac5c568",\
